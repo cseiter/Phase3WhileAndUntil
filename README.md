@@ -26,3 +26,4 @@ Fill out the content of the `using_while` method so that calling it will `puts` 
 Fill out the content of the `using_until` method to `puts` the desired phrase, "Wingardium Leviosa", until our levitation force equals `10`. Remember, every time you `puts` the phrase, you should increment your levitation force by `1`.
 
 **Hint: If you get stuck an infinite loop when you run your tests or your code, you can abort the test run or code by pressing `CONTROL+C` on your keyboard.**
+# Phase3WhileAndUntil
